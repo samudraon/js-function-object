@@ -6,7 +6,6 @@ foo();
 function bar() {
     console.log('bar');
 }
-bar();
 
 function make_avg(marks1, marks2, marks3) {
     var total = marks1 + marks2 + marks3
